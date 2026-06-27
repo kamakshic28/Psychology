@@ -1,0 +1,6 @@
+print("Intresting Psychology Facts")
+print("Human attention span is shorter than a fish's attention span")
+print("The human brain uses 20% of a person's energy")
+print("Eating bananas can actually uplift a person's mood")
+print("When a person dies, their brain replays that person's favorite memories for 7 minutes")
+print("Happy people don't need as much sleep and sad people do")
