@@ -12,3 +12,9 @@ print("Biopsychology focuses on analyzing how the brain and behavior interact wi
 print("counseling Psychology is like theraphy, helping people manage stress in their life")
 print("Developemtal Psychology studies psychological growth")
 print("Educational Psychology specifically focuses on how different people learn and how their brain retains information.")
+
+print("What are some carrers in Psychology?")
+print("School counselor: they help with one's mental health, and education in school")
+print("Therapist: they help treat someone's psychological challenges")
+print("I-O psychologists: help with hiring process, see employee behavior, and boost productivity in a workplace")
+
