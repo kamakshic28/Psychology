@@ -18,3 +18,7 @@ print("School counselor: they help with one's mental health, and education in sc
 print("Therapist: they help treat someone's psychological challenges")
 print("I-O psychologists: help with hiring process, see employee behavior, and boost productivity in a workplace")
 
+print("Impact of social media on children")
+print("Lack of confidence. Children often compare themselves with strangers online and loose more confidence.")
+print("Anxiety. Children often get very anxious before and after social media.")
+print("Eye stress. Hours of screen time can increase stress on eyes.")
