@@ -22,3 +22,8 @@ print("Impact of social media on children")
 print("Lack of confidence. Children often compare themselves with strangers online and loose more confidence.")
 print("Anxiety. Children often get very anxious before and after social media.")
 print("Eye stress. Hours of screen time can increase stress on eyes.")
+
+print("Psychology of childhood trauma")
+print("At a young age, kids who suffered childhood trauma eventually have a hard time accepting peace.")
+print("They often feel like something bad will happen soon no matter how happy their life is going.")
+print("They also have problems making friends due to the stress they faced so early on.")
