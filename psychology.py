@@ -27,3 +27,8 @@ print("Psychology of childhood trauma")
 print("At a young age, kids who suffered childhood trauma eventually have a hard time accepting peace.")
 print("They often feel like something bad will happen soon no matter how happy their life is going.")
 print("They also have problems making friends due to the stress they faced so early on.")
+
+print("Psychology of skin picking")
+print("When someone skin-picks, it eventually turns into a coping habit.")
+print("It turns into a coping mechinism because it feels like that is the only thing they can control in the moment of anxiety.")
+print("Often time, the person skin picking or nail picking doesn't realize they are doing that until their skin bellds or it hurts.")
