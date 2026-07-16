@@ -32,3 +32,8 @@ print("Psychology of skin picking")
 print("When someone skin-picks, it eventually turns into a coping habit.")
 print("It turns into a coping mechinism because it feels like that is the only thing they can control in the moment of anxiety.")
 print("Often time, the person skin picking or nail picking doesn't realize they are doing that until their skin bellds or it hurts.")
+
+print("What is Dopamine?")
+print("It is a harmone that makes you 'feel good' and keeps you motivated.")
+print("This is why many people spend hours doom scrolling because dopamine gets released which keeps them stuck at a repeating cycle.")
+print("Although domapine makes us feel good and motivated, excessive amount of it can be dangerous and it can become dangerous from drugs or schizophrenia.")
