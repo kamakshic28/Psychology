@@ -37,3 +37,8 @@ print("What is Dopamine?")
 print("It is a harmone that makes you 'feel good' and keeps you motivated.")
 print("This is why many people spend hours doom scrolling because dopamine gets released which keeps them stuck at a repeating cycle.")
 print("Although domapine makes us feel good and motivated, excessive amount of it can be dangerous and it can become dangerous from drugs or schizophrenia.")
+
+print("What is Serotonin?")
+print("It is a chemical in the brain ment to stablize one's mood.")
+print("Serotonin can be released while meditation, or talking a walk")
+print("These activites are calming and makes one's mind step away from chos in their mind and release Serotonin.")
