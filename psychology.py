@@ -42,3 +42,8 @@ print("What is Serotonin?")
 print("It is a chemical in the brain ment to stablize one's mood.")
 print("Serotonin can be released while meditation, or talking a walk")
 print("These activites are calming and makes one's mind step away from chos in their mind and release Serotonin.")
+
+print("What is Oxytocin?")
+print("Oxytocin is a happy harmone used to relieve stress and make bonds.")
+print("One way to release Oxytocin is by showing kindness and volunteering.")
+print("Oxytoxcin is also known to be released during brestfeeding and is also know as the 'love harmone'.")
