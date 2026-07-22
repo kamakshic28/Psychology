@@ -47,3 +47,9 @@ print("What is Oxytocin?")
 print("Oxytocin is a happy harmone used to relieve stress and make bonds.")
 print("One way to release Oxytocin is by showing kindness and volunteering.")
 print("Oxytoxcin is also known to be released during brestfeeding and is also know as the 'love harmone'.")
+
+print("Psychology of OCD")
+print("If someone struggles with OCD, they may do things in a certain way to calm their anxiety down.")
+print("They may be stuck in a loop of obeying their brain in order to survive or feel better.")
+print("These tasks can feel threathing if not done so if you know someone struggling with this or if you are struggling, then please seek help from a trusted adult because you are not alone.")
+
