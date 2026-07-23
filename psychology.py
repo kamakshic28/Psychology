@@ -53,3 +53,4 @@ print("If someone struggles with OCD, they may do things in a certain way to cal
 print("They may be stuck in a loop of obeying their brain in order to survive or feel better.")
 print("These tasks can feel threathing if not done so if you know someone struggling with this or if you are struggling, then please seek help from a trusted adult because you are not alone.")
 
+print("What are the causes of OCD?")
