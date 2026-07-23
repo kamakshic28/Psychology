@@ -54,3 +54,6 @@ print("They may be stuck in a loop of obeying their brain in order to survive or
 print("These tasks can feel threathing if not done so if you know someone struggling with this or if you are struggling, then please seek help from a trusted adult because you are not alone.")
 
 print("What are the causes of OCD?")
+print("Genetics is a huge reason for OCD as it can run in the family.")
+print("Childhood trauma or any type of trauma that required perfectionism can be a reason for OCD.")
+print("An infection called PANDAS can occur in a child's brain that can cause OCD.")
