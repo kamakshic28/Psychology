@@ -59,3 +59,6 @@ print("Childhood trauma or any type of trauma that required perfectionism can be
 print("An infection called PANDAS can occur in a child's brain that can cause OCD.")
 
 print("What is jetlag?")
+print("Jetlag is when your body has a hard time instantly adujusting to a certain time zone after living in a another one.")
+print("The 'Jet' in the jetlag comes from the plane or traveling and the 'lag part is from the body adujesting'")
+print("Jetlags may cause headaches, sleepiness during the day, and awakeness during the night.")
