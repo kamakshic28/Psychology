@@ -64,3 +64,4 @@ print("The 'Jet' in the jetlag comes from the plane or traveling and the 'lag pa
 print("Jetlags may cause headaches, sleepiness during the day, and awakeness during the night.")
 
 print("What is ADHD?")
+print("ADHD symptoms include unable to focus and can be linked with anxiety.")
