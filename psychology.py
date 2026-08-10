@@ -65,3 +65,6 @@ print("Jetlags may cause headaches, sleepiness during the day, and awakeness dur
 
 print("What is ADHD?")
 print("ADHD symptoms include unable to focus and can be linked with anxiety.")
+
+print("What is social-cultural psychology?")
+print("Its is how different situations and different cultures shape our thinking in life.")
