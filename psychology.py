@@ -68,3 +68,5 @@ print("ADHD symptoms include unable to focus and can be linked with anxiety.")
 
 print("What is social-cultural psychology?")
 print("Its is how different situations and different cultures shape our thinking in life.")
+
+print("How does Procastination work?")
