@@ -70,3 +70,4 @@ print("What is social-cultural psychology?")
 print("Its is how different situations and different cultures shape our thinking in life.")
 
 print("How does Procastination work?")
+print("Procrastination gives you a hint of dopamine instantly thats why people get stuck in a loop of procrastiontion.")
