@@ -71,3 +71,5 @@ print("Its is how different situations and different cultures shape our thinking
 
 print("How does Procastination work?")
 print("Procrastination gives you a hint of dopamine instantly thats why people get stuck in a loop of procrastiontion.")
+
+print("HOw does peer preasure affect children?")
