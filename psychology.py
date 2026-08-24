@@ -73,4 +73,4 @@ print("How does Procastination work?")
 print("Procrastination gives you a hint of dopamine instantly thats why people get stuck in a loop of procrastiontion.")
 
 print("HOw does peer preasure affect children?")
-print(25-37)
+print("How does different household rules affect children?")
