@@ -74,3 +74,5 @@ print("Procrastination gives you a hint of dopamine instantly thats why people g
 
 print("HOw does peer preasure affect children?")
 print("How does different household rules affect children?")
+
+print(120, 300, 200, 120, fill='lightBlue')
