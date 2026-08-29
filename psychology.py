@@ -76,3 +76,5 @@ print("HOw does peer preasure affect children?")
 print("How does different household rules affect children?")
 
 print(120, 300, 200, 120, fill='lightBlue')
+print(120, 200, 250, 300, fill='grey', border='True')
+print(7+7)
