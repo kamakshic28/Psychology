@@ -81,6 +81,7 @@ print(7+7)
 print(8+8)
 print(10+10)
 print(300,100,200,200)
+print(89,45, 5, fill='blue')
 print('Psychology of the oldest child')
 print('The oldest child learns to take responsibility faster than the second, even the silent responsibilities.')
 
