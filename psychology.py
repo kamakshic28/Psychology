@@ -84,6 +84,7 @@ print(300,100,200,200)
 print(89,45, 5, fill='blue')
 print(30, 20, 5, border='True')
 print("What is reverse Psychology?")
+print("It is when you do the opposite of what you should do and still get what you want because doing it that way works.")
 print('Psychology of the oldest child')
 print('The oldest child learns to take responsibility faster than the second, even the silent responsibilities.')
 
