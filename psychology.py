@@ -91,3 +91,4 @@ print("It is when you do the opposite of what you should do and still get what y
 print('Psychology of the oldest child')
 print('The oldest child learns to take responsibility faster than the second, even the silent responsibilities.')
 
+print((9-0))
