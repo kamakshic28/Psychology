@@ -94,3 +94,4 @@ print('The oldest child learns to take responsibility faster than the second, ev
 print((9-0))
 print(0*0)
 print(7+9)
+print(4+5)
